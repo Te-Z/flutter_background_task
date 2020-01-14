@@ -1,0 +1,22 @@
+PODS:
+  - background_fetch (0.4.0):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - background_fetch (from `.symlinks/plugins/background_fetch/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  background_fetch:
+    :path: ".symlinks/plugins/background_fetch/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  background_fetch: 81de747c63e1ec3558e222af758c1b5fa2662c70
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
